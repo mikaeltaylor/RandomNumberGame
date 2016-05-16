@@ -1,0 +1,9 @@
+c:\users\mikae\documents\visual studio 2012\Projects\RandomNumberGame\RandomNumberGame\bin\Debug\RandomNumberGame.exe.config
+C:\Users\mikae\Documents\Visual Studio 2012\Projects\RandomNumberGame\RandomNumberGame\bin\Debug\RandomNumberGame.exe
+C:\Users\mikae\Documents\Visual Studio 2012\Projects\RandomNumberGame\RandomNumberGame\bin\Debug\RandomNumberGame.pdb
+C:\Users\mikae\Documents\Visual Studio 2012\Projects\RandomNumberGame\RandomNumberGame\obj\Debug\RandomNumberGame.csprojResolveAssemblyReference.cache
+C:\Users\mikae\Documents\Visual Studio 2012\Projects\RandomNumberGame\RandomNumberGame\obj\Debug\RandomNumberGame.RandomNumberForm.resources
+C:\Users\mikae\Documents\Visual Studio 2012\Projects\RandomNumberGame\RandomNumberGame\obj\Debug\RandomNumberGame.Properties.Resources.resources
+C:\Users\mikae\Documents\Visual Studio 2012\Projects\RandomNumberGame\RandomNumberGame\obj\Debug\RandomNumberGame.csproj.GenerateResource.Cache
+C:\Users\mikae\Documents\Visual Studio 2012\Projects\RandomNumberGame\RandomNumberGame\obj\Debug\RandomNumberGame.exe
+C:\Users\mikae\Documents\Visual Studio 2012\Projects\RandomNumberGame\RandomNumberGame\obj\Debug\RandomNumberGame.pdb
